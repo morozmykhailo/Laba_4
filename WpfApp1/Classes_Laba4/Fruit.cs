@@ -27,7 +27,7 @@ namespace Laba_4.Classes_Laba4
             return CaloriesPer100g;
         }
 
-        // Інформація про БЖВ
+        // Інформація про БЖВ + орієнтовні значення для фруктів
         public override string GetBzhvInfo()
         {
             return "Б: 0.5г, Ж: 0.3г, В: 14г (орієнтовно для фруктів)";
